@@ -1,0 +1,2 @@
+# zettlekasten
+My seconf brain
